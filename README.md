@@ -33,7 +33,7 @@ Once the app is running, you can access it in your browser at `http://localhost:
 
 ## Contributing
 
-Contributions to the Crowdfunding project are welcome! To contribute, please follow these steps:
+Contributions to the crowdfunding project are welcome! To contribute, please follow these steps:
 
 1. Fork the repository
 2. Create a new branch: `git checkout -b <branch-name>`
