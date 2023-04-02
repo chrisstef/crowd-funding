@@ -14,7 +14,23 @@ A crowdfunding dapp is a decentralized application built on a blockchain that al
 - [x] Expire project if targeted amount not fulfills between deadline.
 - [x] Contributors can withdraw contributed amount if project expire.
 
-## Project Structure
+## Live Project
+
+The deployed project is live on the website: https://crowd-funding-world.vercel.app.
+
+You can access it directly and start using it.
+
+## Connecting to Goerli Network
+
+To connect to the Goerli Network on the Ethereum blockchain, you will need to have the Metamask browser extension installed. Here are the steps to set up Metamask:
+
+1. Install the Metamask extension on your browser.
+2. Create a new wallet or import an existing one.
+3. Click on the Metamask extension icon and select "Goerli Test Network".
+4. Add some test ether to your wallet by visiting a faucet such as https://goerlifaucet.com.
+5. Once you have test ether in your wallet, you can interact with the Crowd-Funding dapp on the Goerli Network.
+
+## Developers
 
 The project is structured into two directories:
 
@@ -25,8 +41,6 @@ This directory contains the front-end code of the application.
 ### web3
 
 This directory contains the smart contract and code related to the blockchain.
-
-## Installation
 
 To install the app, you will need to have _Node.js_ and _npm_ installed on your machine.
 
@@ -48,3 +62,4 @@ Contributions to the crowdfunding project are welcome! To contribute, please fol
 3. Make your changes and commit them: `git commit -m 'Add some feature'`
 4. Push to the branch: `git push origin <branch-name>`
 5. Create a new pull request
+
