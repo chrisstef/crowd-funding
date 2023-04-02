@@ -8,9 +8,9 @@ const Loader = () => {
       <img
         src={metamask}
         alt="metamask loader"
-        className="w-[300px] h-[300px] object-contain"
+        className="w-[200px] h-[200px] object-contain"
       />
-      <p className="mt-[10px] font-epilogue font-bold text-[25px] text-white text-center">
+      <p className="mt-[5px] font-epilogue font-bold text-[20px] text-white text-center">
         Transaction is in progress <br /> Please wait...
       </p>
     </div>

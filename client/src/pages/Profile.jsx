@@ -33,7 +33,7 @@ const Profile = () => {
         <>
           <div className="flex justify-center items-center sm:min-w-[380px] bg-[#1c1c24] rounded-[10px] sm:p-10 p-4">
             <p className="font-epilogue font-semibold text-[14px] leading-[30px] text-[#818183]">
-              Connect with your wallet to view your Campaigns.
+              Connect your wallet to view your Campaign.
             </p>
           </div>
         </>

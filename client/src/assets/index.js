@@ -11,7 +11,7 @@ import search from "./search.svg";
 import menu from "./menu.svg";
 import money from "./money.svg";
 import loader from "./loader.svg";
-import thirdweb from "./thirdweb.png";
+import avatar from "./avatar.png";
 import metamask from "./metamask.gif";
 
 export {
@@ -28,6 +28,6 @@ export {
   menu,
   money,
   loader,
-  thirdweb,
+  avatar,
   metamask,
 };
