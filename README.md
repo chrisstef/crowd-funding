@@ -12,7 +12,6 @@ A crowdfunding dapp is a decentralized application built on a blockchain that al
 - [x] Anyone can contribute.
 - [x] End project if targeted contribution amount reached.
 - [x] Expire project if targeted amount not fulfills between deadline.
-- [x] Contributors can withdraw contributed amount if project expire.
 
 ## Live Project
 
@@ -62,4 +61,3 @@ Contributions to the crowdfunding project are welcome! To contribute, please fol
 3. Make your changes and commit them: `git commit -m 'Add some feature'`
 4. Push to the branch: `git push origin <branch-name>`
 5. Create a new pull request
-
