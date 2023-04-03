@@ -1,10 +1,10 @@
 # crowd-funding
 
-A crowdfunding dapp built with Solidity and React.
+A crowdfunding dApp built with Solidity and React.
 
 ## Background
 
-A crowdfunding dapp is a decentralized application built on a blockchain that allows individuals or organizations to raise funds for their projects, causes or ventures. It consists of a smart contract that holds the raised funds until the campaign's funding goal is met. Once the goal is achieved, the funds are released to the campaign's creator.
+A crowdfunding dApp is a decentralized application built on a blockchain that allows individuals or organizations to raise funds for their projects, causes or ventures. It consists of a smart contract that holds the raised funds until the campaign's funding goal is met. Once the goal is achieved, the funds are released to the campaign's creator.
 
 ## Project features
 
@@ -27,7 +27,7 @@ To connect to the Goerli Network on the Ethereum blockchain, you will need to ha
 2. Create a new wallet or import an existing one.
 3. Click on the Metamask extension icon and select "Goerli Test Network".
 4. Add some test ether to your wallet by visiting a faucet such as https://goerlifaucet.com.
-5. Once you have test ether in your wallet, you can interact with the Crowd-Funding dapp on the Goerli Network.
+5. Once you have test ether in your wallet, you can interact with the Crowd-Funding dApp on the Goerli Network.
 
 ## Developers
 
