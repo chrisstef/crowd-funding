@@ -4,7 +4,7 @@ A crowdfunding dApp built with Solidity and React.
 
 ## Background
 
-A crowdfunding dApp is a decentralized application built on a blockchain that allows individuals or organizations to raise funds for their projects, causes or ventures. It consists of a smart contract that holds the raised funds until the campaign's funding goal is met. Once the goal is achieved, the funds are released to the campaign's creator.
+This crowdfunding dApp is a decentralized application built on a blockchain that allows individuals or organizations to raise funds for their projects, causes or ventures. It consists of a smart contract that holds the raised funds until the campaign's funding goal is met. Once the goal is achieved, the funds are released to the campaign's creator.
 
 ## Project features
 
