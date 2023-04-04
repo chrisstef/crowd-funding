@@ -34,7 +34,7 @@ const DisplayCampaigns = ({ title, isLoading, campaigns }) => {
 
         {!isLoading &&
           campaigns.length > 0 &&
-          campaigns.map((campaign) => (
+          campaigns?.map((campaign) => (
             <FundCard
               key={campaign.id}
               {...campaign}
