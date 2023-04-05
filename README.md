@@ -29,11 +29,11 @@ To connect to the Goerli Network on the Ethereum blockchain, you will need to ha
 4. Add some test ether to your wallet by visiting a faucet such as https://goerlifaucet.com.
 5. Once you have test ether in your wallet, you can interact with the Crowd-Funding dApp on the Goerli Network.
 
-## Live Project
+<!-- ## Live Project
 
 The deployed project is live on the website: https://crowd-funding-world.vercel.app.
 
-You can access it directly and start using it.
+You can access it directly and start using it. -->
 
 ## Connecting to Goerli Network
 
