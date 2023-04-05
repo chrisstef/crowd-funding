@@ -13,11 +13,11 @@ A crowdfunding dApp is a decentralized application built on a blockchain that al
 - [x] End project if targeted contribution amount reached.
 - [x] Expire project if targeted amount not fulfills between deadline.
 
-## Live Project
+<!-- ## Live Project
 
 The deployed project is live on the website: https://crowd-funding-world.vercel.app.
 
-You can access it directly and start using it.
+You can access it directly and start using it. -->
 
 ## Connecting to Goerli Network
 
