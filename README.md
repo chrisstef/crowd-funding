@@ -47,16 +47,6 @@ To connect to the Goerli Network on the Ethereum blockchain, you will need to ha
 
 ## Developers
 
-The project is structured into two directories:
-
-### client
-
-This directory contains the front-end code of the application.
-
-### web3
-
-This directory contains the smart contract and code related to the blockchain.
-
 To install the app, you will need to have _Node.js_ and _npm_ installed on your machine.
 
 1. Clone the repository: `git clone https://github.com/chrisstef/crowd-funding.git`
