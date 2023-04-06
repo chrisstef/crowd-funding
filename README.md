@@ -29,22 +29,6 @@ To connect to the Goerli Network on the Ethereum blockchain, you will need to ha
 4. Add some test ether to your wallet by visiting a faucet such as https://goerlifaucet.com.
 5. Once you have test ether in your wallet, you can interact with the Crowd-Funding dApp on the Goerli Network.
 
-<!-- ## Live Project
-
-The deployed project is live on the website: https://crowd-funding-world.vercel.app.
-
-You can access it directly and start using it. -->
-
-## Connecting to Goerli Network
-
-To connect to the Goerli Network on the Ethereum blockchain, you will need to have the Metamask browser extension installed. Here are the steps to set up Metamask:
-
-1. Install the Metamask extension on your browser.
-2. Create a new wallet or import an existing one.
-3. Click on the Metamask extension icon and select "Goerli Test Network".
-4. Add some test ether to your wallet by visiting a faucet such as https://goerlifaucet.com.
-5. Once you have test ether in your wallet, you can interact with the Crowd-Funding dApp on the Goerli Network.
-
 ## Developers
 
 To install the app, you will need to have _Node.js_ and _npm_ installed on your machine.
