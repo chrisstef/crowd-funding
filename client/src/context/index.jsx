@@ -3,8 +3,8 @@ import React, { useContext, createContext } from "react";
 import {
   useAddress,
   useContract,
-  useMetamask,
   useContractWrite,
+  useMetamask,
   useDisconnect,
 } from "@thirdweb-dev/react";
 import { ethers } from "ethers";
@@ -13,12 +13,14 @@ const StateContext = createContext();
 
 export const StateContextProvider = ({ children }) => {
   const { contract } = useContract(
-    "0xcbef525567f57c98b0cd363db29a41a49b534b96"
+    "0xcBEf525567f57c98b0Cd363db29A41a49b534b96"
   );
   const { mutateAsync: createCampaign } = useContractWrite(
     contract,
     "createCampaign"
   );
+
+  const withdrawFunds = useContractWrite(contract, "withdrawFunds");
 
   const address = useAddress();
   const connect = useMetamask();
@@ -102,6 +104,7 @@ export const StateContextProvider = ({ children }) => {
         connect,
         disconnect,
         createCampaign: publishCampaign,
+        withdrawFunds,
         getCampaigns,
         getUserCampaigns,
         donate,

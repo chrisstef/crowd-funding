@@ -78,23 +78,4 @@ contract CrowdFunding {
 
         return allCampaigns;
     }
-
-    function withdrawFunds(uint256 _id) public {
-        Campaign storage campaign = campaigns[_id];
-        require(
-            block.timestamp >= campaign.deadline,
-            "The deadline has not yet passed."
-        );
-        require(
-            campaign.amountCollected >= campaign.target,
-            "The target has not yet been reached."
-        );
-
-        (bool sent, ) = payable(campaign.owner).call{
-            value: campaign.amountCollected
-        }("");
-        require(sent, "Failed to send Ether");
-
-        campaign.amountCollected = 0;
-    }
 }
