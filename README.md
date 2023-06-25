@@ -1,6 +1,6 @@
 # crowd-funding
 
-A crowdfunding dApp built with Solidity and React.js.
+A crowdfunding decentralized app built with Solidity and React.js.
 
 ## Background
 
